@@ -29,6 +29,7 @@
   "typings": "dist/index.d.ts",
   "files": [
     "README.md",
+    "src",
     "dist"
   ]
 }
